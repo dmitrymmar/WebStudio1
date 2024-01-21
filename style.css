@@ -1,0 +1,205 @@
+/* ----------------------HEADER------------------ */
+* {
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+
+}
+
+.logo {
+    margin-left: 215px;
+}
+
+.flex {
+    display: flex;
+}
+
+.header-wrap {
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.menu {
+    display: flex;
+    gap: 50px;
+
+}
+
+.p1-wrap {
+    gap: 90px;
+
+}
+
+.p2-wrap {
+    gap: 50px;
+}
+
+.logo {
+    margin-top: 15px;
+}
+
+ul {
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.a1 {
+    color: #2196F3;
+}
+
+.a2 {
+    color: #757575;
+}
+
+/* ------------------------------------HEADER-------------------------- */
+
+/* -------------------------------section_1---------------------------------- */
+.sec1 {
+    background-color: #2F303A;
+    width: 1528px;
+    height: 600px;
+
+
+
+}
+
+h1 {
+    /* width: 696px; */
+    font-size: 44px;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+    line-height: 60px;
+    padding-top: 200px;
+
+}
+
+.btn {
+    width: 216px;
+    height: 50px;
+    background-color: #2196F3;
+    color: #ffffff;
+    margin-left: 652px;
+}
+
+.btn-a1 {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    padding: 10px 32px;
+    display: block;
+    margin-left: 12px;
+}
+
+
+.zag {
+    color: #212121;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 94px;
+}
+
+.p--sec2 {
+    color: #757575;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.h1img {
+    color: #212121;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+
+}
+
+.imgg {
+    width: 370px;
+    height: 294px;
+    gap: 30px;
+    margin-left: 180px;
+    margin-bottom: 94px;
+
+}
+
+
+.fgimg {
+    width: 270px;
+    height: 260px;
+}
+
+h4 {
+    margin-top: 94px;
+}
+
+
+.command {
+    width: 1600px;
+    height: 648px;
+    background: #F5F4FA;
+}
+
+.comhh {
+    color: #212121;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+
+
+}
+
+
+.compp {
+    color: #757575;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+footer {
+    width: 1600px;
+    height: 252px;
+    background: #2F303A;
+}
+
+.imgfoot {
+    margin-top: 60px;
+    margin-left: 215px;
+
+}
+
+
+.pfoot {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 215px;
+}
+
+.pfo {
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 215px;
+   
+
+}
+
+
+.txt{
+    width: 270px;
+}
